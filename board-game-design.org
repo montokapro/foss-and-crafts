@@ -1,0 +1,15 @@
+* The importance of play
+** Knowledge transfer
+** Simplified models
+* Practical use
+** Adoption in training exercises
+*** Used in large companies
+* Complexity
+** Contrast to programming
+*** Complexity is a feature, not a bug
+**** Multiplicative gameplay
+*** NP-hard
+**** Have good heuristics but not practically solvable
+* Limitations of the medium
+** Locality of information
+** Referential transparency

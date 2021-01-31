@@ -1,0 +1,21 @@
+* Definition
+** Fuzzy
+** Crisp
+* Occurrences
+** Wave particle duality
+*** DeBroglie interpretation
+** Language
+*** English
+*** Programming languages
+*** Lojban
+** AI
+*** Scruffy
+*** Neat
+* Models and abstractions
+** Newtonian
+** General Relativity
+* Duality
+** Curry-howard
+** The importance of symmetry
+* References
+** Squiggly video
