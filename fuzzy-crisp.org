@@ -1,9 +1,11 @@
 * Definition
+https://techdifferences.com/difference-between-fuzzy-set-and-crisp-set.html
 ** Fuzzy
 ** Crisp
 * Occurrences
 ** Wave particle duality
-*** DeBroglie interpretation
+*** Pilot Wave Theory
+https://www.youtube.com/watch?v=RlXdsyctD50
 ** Language
 *** English
 *** Programming languages
@@ -14,8 +16,15 @@
 * Models and abstractions
 ** Newtonian
 ** General Relativity
+** Object oriented
+Is OOP defined by smalltalk's structure? Inheritance? Imperative loops? Mutability? 
+** FP
+Is reactive programming like streams and effects under the umbrella term of FP? Is immutability essential?
+** Object capabilities
 * Duality
 ** Curry-howard
 ** The importance of symmetry
+* Music Theory
+12 tone system is a fuzzy approximation of simple fractional overtones
 * References
 ** Squiggly video

@@ -13,3 +13,8 @@
 * Limitations of the medium
 ** Locality of information
 ** Referential transparency
+* Concurrency
+** Reducing player downtime and CPU utilization
+** Turn structures and semaphores
+* Psychology
+** Losing points vs gaining points
