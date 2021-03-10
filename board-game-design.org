@@ -18,3 +18,22 @@
 ** Turn structures and semaphores
 * Psychology
 ** Losing points vs gaining points
+* Emergent Design
+* Information Exchange
+** Competitive
+Easy to calculate probabilities, for computers to solve
+Players aim to divulge as little information as possible
+Gameplay falls into a nash equilibrium
+** Cooperative
+Players try to maximize information shared
+*** Hanabi
+Highly complex for AI: https://en.wikipedia.org/wiki/Hanabi_(card_game)#AI_challenge
+*** The Crew
+** Team games / social deductions
+Players try to give targeted hints
+*** Spyfall
+*** Resistance of Avalon - Merlin
+** Drafting
+Signaling - you may go out of your way to divulge information, even as you attempt to "hate draft"
+*** Magic the gathering
+*** Sushi Go
